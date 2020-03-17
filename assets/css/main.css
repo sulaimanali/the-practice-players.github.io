@@ -16,46 +16,87 @@ h1, h2, h3, h4, h5, h6 {
 nav {
 
     background-color: #121212;
+    color: #DFDFDF;
     text-transform: uppercase;
-    display: inline-block;
-    padding: 1% 10%;
+    padding: 1.5% 10%;
     font-size: min(max(10px, 2vw), 16px);
+    box-shadow: 0 1px 10px 1px #222;
 
 }
 
 nav img { /* logo styling */
 
-    width: 20%;
+    width: 10%;
 
 }
 
-nav a, #menu a {
+.menu-dropdown {
+
+    position: relative;
+    float: right;
+    margin: 0.5%;
+    padding: 1%;
+    background-color: transparent;
+    border: 1px solid #DFDFDF;
+    transition: all 100ms;
+
+}
+
+.menu a {
 
     text-decoration: none;
-    color: #DFDFDF;
-    padding: 1%;
+    color: #121212;
 
 }
 
-#menu {
+.menu {
 
-    float: right;
+    display: none;
+    position: absolute;
+    background-color: #DFDFDF;
+    color: #121212;
+    min-width: 100px;
+    margin: 50px;
+    padding: 50px;
+    box-shadow: 0 8px 16px 0 #222;
+    z-index: 1;
+    text-align: center;
+    left: 0;
+    right: 0;
+    margin-left: 0;
+    margin-right: 0;
+
+}
+
+.menu-dropdown:hover {
+
+    background-color: #DFDFDF;
+    color: #121212;
+    transition: background-color 100ms linear;
+    transition: color 100ms linear;
+
+}
+
+.menu-dropdown:hover .menu {
+
+    display: block;
 
 }
 
 .social {
 
-    display: inline;
+    display: inline-block;
 
 }
 
 .social span {
 
-    border: 1px solid #DFDFDF;
-    padding: 5%;
-    border-radius: 50%;
+    border: 1px solid #121212;
+    margin: 1%;
+    padding: 10%;
+    border-radius: 100%;
     transition: all 100ms;
-    color: #DFDFDF;
+    color: #121212;
 
 }
 
@@ -64,12 +105,18 @@ nav a, #menu a {
     background-color: #00acee;
     transition: background-color 100ms linear;
 
+    color: white;
+    transition: color 100ms linear;
+
 }
 
 .fa-instagram:hover {
 
     background: linear-gradient(90deg, rgba(131,58,180,1) 0%, rgba(253,29,29,1) 50%, rgba(252,176,69,1) 100%);
     transition: background 100ms linear;
+
+    color: white;
+    transition: color 100ms linear;
 
 }
 
@@ -78,6 +125,9 @@ nav a, #menu a {
     background-color: #c4302b;
     transition: background-color 100ms linear;
 
+    color: white;
+    transition: color 100ms linear;
+
 }
 
 .fa-facebook:hover {
@@ -85,51 +135,13 @@ nav a, #menu a {
     background-color: #3b5998;
     transition: background-color 100ms linear;
 
+    color: white;
+    transition: color 100ms linear;
+
 }
 
 section {
 
     margin: 0 10%;
-
-}
-
-@media only screen and (max-width: 600px) {
-  
-    nav {
-
-        overflow: hidden;
-        position: relative;
-
-    }
-
-    #menu {
-
-        display: none;
-
-    }
-
-    #menu a {
-
-        display: block;
-        position: absolute;
-        z-index: 1;
-        min-width: 10%;
-        padding: 10%;
-        color: yellow;
-        left: 0;
-        right: 0;
-        margin-left: 0;
-        margin-right: 0;
-
-    }
-
-    #responsive-menu {
-
-        display: block;
-        position: absolute;
-        right: 0;
-        top: 0;
-
-    }
 
 }
