@@ -1,12 +1,135 @@
-* {
+html, body {
 
-    
+    margin: 0; 
+    padding: 0;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 10px;
 
 }
 
-html, body {
+h1, h2, h3, h4, h5, h6 {
 
-    margin: 0;
-    padding: 0;
+    font-family: 'Gothic A1', sans-serif;
+
+}
+
+nav {
+
+    background-color: #121212;
+    text-transform: uppercase;
+    display: inline-block;
+    padding: 1% 10%;
+    font-size: min(max(10px, 2vw), 16px);
+
+}
+
+nav img { /* logo styling */
+
+    width: 20%;
+
+}
+
+nav a, #menu a {
+
+    text-decoration: none;
+    color: #DFDFDF;
+    padding: 1%;
+
+}
+
+#menu {
+
+    float: right;
+
+}
+
+.social {
+
+    display: inline;
+
+}
+
+.social span {
+
+    border: 1px solid #DFDFDF;
+    padding: 5%;
+    border-radius: 50%;
+    transition: all 100ms;
+    color: #DFDFDF;
+
+}
+
+.fa-twitter:hover {
+
+    background-color: #00acee;
+    transition: background-color 100ms linear;
+
+}
+
+.fa-instagram:hover {
+
+    background: linear-gradient(90deg, rgba(131,58,180,1) 0%, rgba(253,29,29,1) 50%, rgba(252,176,69,1) 100%);
+    transition: background 100ms linear;
+
+}
+
+.fa-youtube:hover {
+
+    background-color: #c4302b;
+    transition: background-color 100ms linear;
+
+}
+
+.fa-facebook:hover {
+
+    background-color: #3b5998;
+    transition: background-color 100ms linear;
+
+}
+
+section {
+
+    margin: 0 10%;
+
+}
+
+@media only screen and (max-width: 600px) {
+  
+    nav {
+
+        overflow: hidden;
+        position: relative;
+
+    }
+
+    #menu {
+
+        display: none;
+
+    }
+
+    #menu a {
+
+        display: block;
+        position: absolute;
+        z-index: 1;
+        min-width: 10%;
+        padding: 10%;
+        color: yellow;
+        left: 0;
+        right: 0;
+        margin-left: 0;
+        margin-right: 0;
+
+    }
+
+    #responsive-menu {
+
+        display: block;
+        position: absolute;
+        right: 0;
+        top: 0;
+
+    }
 
 }
