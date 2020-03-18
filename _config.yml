@@ -2,6 +2,11 @@ title: The Practice Players
 description: The Practice Players is a lifestyle blog featuring a daily podcast focused around Sports, Fitness, Sneakers, Family, and Faith
 copyright: Copyright &copy; 2020 The Practice Players. All rights reserved.
 
+twitter: "practiceplayers"
+instagram: "practiceplayers"
+youtube: "UCP_8OkBDprwJzn3pDa2HzxA"
+facebook: "practiceplayers"
+
 plugins: 
     - jekyll-feed
     - jekyll-sitemap

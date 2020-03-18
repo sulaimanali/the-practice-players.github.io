@@ -10,6 +10,12 @@ h1, h2, h3, h4, h5, h6 {
 
 }
 
+section, nav, footer {
+
+    padding: 1% 10%!important;
+
+}
+
 .bg-primary {
 
     background-color: #121212!important;
@@ -48,17 +54,42 @@ nav {
 
 .social span {
 
+    background-color: #121212;
     display: inline-block;
+    color: white;
     border: 1px solid white;
     font-size: 1.6em;
     padding: 5px;
     width: 40px;
     border-radius: 100%;
+    transition: all 100ms;
 
 }
 
-section, nav, footer {
+.fa-twitter:hover {
 
-    padding: 1% 10%!important;
+     background-color: #00acee;
+     transition: background-color 100ms linear;
+
+}
+
+.fa-instagram:hover {
+
+     background: linear-gradient(90deg, rgba(131,58,180,1) 0%, rgba(253,29,29,1) 50%, rgba(252,176,69,1) 100%);
+     transition: background 100ms linear;
+
+}
+
+.fa-youtube:hover {
+
+     background-color: #c4302b;
+     transition: background-color 100ms linear;
+
+}
+
+.fa-facebook:hover {
+
+     background-color: #3b5998;
+     transition: background-color 100ms linear;
 
 }
