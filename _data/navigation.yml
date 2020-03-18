@@ -1,0 +1,8 @@
+- name: home
+  link: /
+- name: posts
+  link: /posts.html
+- name: podcasts
+  link: /podcasts.html
+- name: contact
+  link: /contact.html

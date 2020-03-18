@@ -1,44 +1,32 @@
-<nav>
+<nav class="w3-bar w3-black w3-card">
 
-    <a href="#">
+    <a href="/">
         
-        <img src="/assets/logos/White on Transparent.PNG"> <!-- logo -->
+        <img src="/assets/logos/White on Transparent.PNG" class="logo w3-padding-large w3-bar-item"> <!-- logo -->
         
     </a>
 
-    <div class="menu-dropdown" onclick="">
+    <div class="w3-dropdown-hover">
+    
+        <button class="w3-button w3-bar-item">
+    
+            MENU
 
-        <span>
-            
-            menu
-            
-        </span>
+        </button>
         
-        <div class="menu">
-        
-            <a href="#">
+        <div class="w3-dropdown-content w3-bar-block w3-card-4">
 
-                home
-                
-            </a>
-            <a href="#">
-                
-                posts
-                
-            </a>
-            <a href="#">
-                
-                podcasts
-                
-            </a>
-            <a href="#">
-                
-                contact
-                
-            </a>
+            {% for item in site.data.navigation %}
 
-            <!-- social icons -->
+                <a href="{{ item.link }}" {% if page.url == item.link %}style="font-weight: 900;"{% endif %} class="w3-bar-item w3-button">
+    
+                {{ item.name }} 
+      
+                </a>
+            
+            {% endfor %}
 
+            <!-- social icons -->    
             {%- include social.html -%}
 
         </div>
