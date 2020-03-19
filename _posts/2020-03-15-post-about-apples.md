@@ -1,9 +1,10 @@
 ---
 layout: post
-title: "Post About Apples"
+title: "Episode 3: Post About Apples"
 author: "Riyaad Azad"
 description: "No, not Apple the company. Apple the FRUIT, people. It's still a thing, and it's sweet and tart and yummy and delicious."
 image: "https://images.unsplash.com/photo-1567306226416-28f0efdc88ce?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1950&q=80"
+categories: [podcast]
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque id ex at elit varius tempus id eget nisl. Donec eget fermentum lacus. 

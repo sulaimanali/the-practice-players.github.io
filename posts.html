@@ -4,11 +4,7 @@ title: All Posts
 ---
 
 {% for post in site.posts %}
-<div class="jumbotron shadow-sm bg-light posts" style="background: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url({{ post.image }}); background-size: cover; background-repeat: no-repeat;">
-    <h6 class="text-light">{{ post.date | date_to_string }}</h6>
-    <h2 class="font-weight-bolder"><a href="{{ post.url }}" class="text-light">{{ post.title }}</a></h2>
-    <p class="text-light">{{ post.description }}</p>
-    <p class="font-italic text-light">{{ post.excerpt | strip_html }}</p>
-    <a href="{{ post.url }}" class="btn btn-success shadow text-light">read more</a>
-</div>
+
+    {%- include post.html -%}
+
 {% endfor %}
