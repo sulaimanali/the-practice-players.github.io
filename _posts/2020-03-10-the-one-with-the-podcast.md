@@ -5,6 +5,8 @@ author: "Riyaad Azad"
 description: "I want to include a unique description for each dummy post but I'm not very creative so we'll have to see."
 image: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2014/02/shutterstock_163052525-730x342.jpg"
 categories: [podcast]
+# podcast-duration: 
+# podcast-link: 
 ---
 
 This is an excerpt of the post. Make sure the first sentence of your post is short and interesting. 

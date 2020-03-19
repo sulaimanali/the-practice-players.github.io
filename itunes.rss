@@ -1,0 +1,59 @@
+---
+layout: null
+---
+
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"> 
+
+<channel>
+
+    <title>
+    
+        {{ site.podcast-title }}
+    
+    </title>
+
+    <link>{{ site.url }}</link>
+
+    <description>
+    
+        {{ site.podcast-description }}
+    
+    </description>
+
+    <language>en</language>
+
+    <itunes:author>{{ site.podcast-organization }}</itunes:author>
+
+    <copyright>{{ site.copyright }}</copyright>
+    
+    <itunes:category text="Sports" />
+
+    <itunes:type>episodic</itunes:type>
+
+    <itunes:image href="{{ site.url }}assets/logos/White on Black.PNG" /> 
+
+    <itunes:explicit>clean</itunes:explicit>
+    
+    {% for post in site.categories.podcast %}
+    <item>
+        
+        <guid>{{ site.permalink }}</guid>
+        
+        <title>{{ post.title }}</title>
+        
+        <description>{{ post.description }}</description>
+        
+        <pubDate>{{ post.date | date: "%a, %d %b %Y %T %z" }}</pubDate>  
+        
+        <itunes:duration>{{ post.podcast-duration }}</itunes:duration>
+        
+        <enclosure
+        url="{{ post.podcast-link }}" type="audio/mpeg" />
+    </item>
+    {% endfor %}
+
+</channel>
+
+</rss>
