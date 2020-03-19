@@ -16,6 +16,8 @@ layout: null
 
     <link>{{ site.url }}</link>
 
+    <atom:link href="{{ site.url }}/itunes.rss" rel="self" type="application/rss+xml" />
+
     <description>
     
         {{ site.podcast-description }}
@@ -34,9 +36,14 @@ layout: null
 
     <itunes:type>episodic</itunes:type>
 
-    <itunes:image href="{{ site.url }}assets/logos/White on Black.PNG" /> 
+    <itunes:image href="{{ site.url }}/assets/logos/White on Black.PNG" /> 
 
     <itunes:explicit>clean</itunes:explicit>
+
+    <itunes:owner>
+      <itunes:name>{{ site.owner }}</itunes:name>
+      <itunes:email>{{ site.owner-email }}</itunes:email>
+    </itunes:owner>
     
     {% for post in site.categories.podcast %}
     <item>

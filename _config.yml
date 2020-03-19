@@ -12,9 +12,11 @@ instagram-highlighted-post: "https://www.instagram.com/p/B92R9NPA6FD/"
 
 permalink: /:categories/:year/:month/:day/:title:output_ext
 
-podcast-title: The Practice Players
-podcast-organization: The Practice Players
-podcast-description: Daily podcast hosted by Sulaiman Ali focused on Sports, Fitness, Sneakers, Family, and Faith.
+podcast-title: "The Practice Players"
+podcast-organization: "The Practice Players"
+podcast-description: "Daily podcast hosted by Sulaiman Ali focused on Sports, Fitness, Sneakers, Family, and Faith."
+owner: "Sulaiman Ali"
+owner-email: "sulaiman@thepracticeplayers.com"
 
 plugins: 
     - jekyll-feed
