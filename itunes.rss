@@ -4,7 +4,7 @@ layout: null
 
 <?xml version="1.0" encoding="UTF-8"?>
 
-<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"> 
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"> 
 
 <channel>
 
@@ -23,6 +23,8 @@ layout: null
     </description>
 
     <language>en</language>
+
+    <lastBuildDate>{{ site.time | date: "%a, %d %b %Y %T %z" }}</lastBuildDate>
 
     <itunes:author>{{ site.podcast-organization }}</itunes:author>
 
