@@ -6,7 +6,11 @@ description: "Because, who doesn't love oranges?"
 image: "https://images.unsplash.com/photo-1547514701-42782101795e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=934&q=80"
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque id ex at elit varius tempus id eget nisl. Donec eget fermentum lacus. 
+This is an excerpt of the post. Make sure the first sentence of your post is short and interesting.
+
+Lorem ipsum dolor sit amet, consectetu. 
+
+Adipiscing elit. Pellentesque id ex at elit varius tempus id eget nisl. Donec eget fermentum lacus. 
 
 Proin ac elit pharetra, dapibus nisl quis, viverra nulla. Donec tempor erat at efficitur sollicitudin. Nulla posuere, nisi id luctus posuere, purus erat pellentesque arcu, sit amet accumsan elit orci sit amet ante. Donec at enim dui. Aliquam erat volutpat. Nulla sed est vitae elit porta porttitor.
 

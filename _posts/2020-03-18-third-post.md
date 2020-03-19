@@ -6,10 +6,12 @@ description: "Today was a lovely day is what my dad just said when I asked him t
 image: "https://images.unsplash.com/photo-1497034825429-c343d7c6a68f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=934&q=80"
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque id ex at elit varius tempus id eget nisl. Donec eget fermentum lacus. 
+This is an excerpt of the post. Make sure the first sentence of your post is short and interesting.
 
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
+
+Pellentesque id ex at elit varius tempus id eget nisl. Donec eget fermentum lacus. 
 Proin ac elit pharetra, dapibus nisl quis, viverra nulla. Donec tempor erat at efficitur sollicitudin. Nulla posuere, nisi id luctus posuere, purus erat pellentesque arcu, sit amet accumsan elit orci sit amet ante. Donec at enim dui. Aliquam erat volutpat. Nulla sed est vitae elit porta porttitor.
-
 Nullam vitae eros massa. Donec fermentum convallis facilisis. Praesent at auctor sapien, sit amet convallis urna. Quisque sagittis commodo ligula non porttitor. Maecenas posuere id sapien in commodo. Nullam turpis tellus, lacinia sit amet ipsum a, lacinia suscipit arcu. Pellentesque eget nisl nec lectus malesuada convallis.
 
 Aenean euismod eros eget nibh vehicula, id aliquam ante lacinia. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi ullamcorper, tellus ut lobortis vehicula, sem purus molestie justo, et scelerisque elit velit vel ex. Duis hendrerit velit nec arcu iaculis commodo. Nam tincidunt mi vitae enim lobortis, ac tincidunt mauris rhoncus. Phasellus egestas gravida accumsan. Aliquam eleifend egestas hendrerit. Donec aliquam justo non dui interdum, eu fermentum ante elementum. Cras malesuada quam eu arcu facilisis, nec pellentesque libero blandit.

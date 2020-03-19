@@ -155,3 +155,27 @@ nav {
     text-transform: uppercase;
 
 }
+
+.home-post-row jumbotron {
+
+    height: 100px;
+
+}
+
+.home-post h6 {
+
+    font-size: 0.7em;
+
+}
+
+.home-post h2 {
+
+    font-size: 0.9em;
+
+}
+
+.home-post p {
+
+    font-size: 0.7em;
+
+}

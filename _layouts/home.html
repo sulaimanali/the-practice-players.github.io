@@ -2,6 +2,54 @@
 layout: default
 ---
 
+<section class="row mt-5">
+
+    <div class="col-sm-8">
+
+        {% for post in site.posts limit: 1 %}
+
+            {%- include post.html -%}
+
+        {% endfor %}
+
+        <div class="row home-post-row">
+            
+            {% for post in site.posts limit: 2 offset: 1 %}
+
+                <div class="col-sm-6 home-post">
+                    
+                    {%- include post.html -%}
+
+                </div>
+
+            {% endfor %}
+
+        </div>
+
+        <div class="row home-post-row">
+
+            {% for post in site.posts limit: 2 offset: 3 %}
+
+                <div class="col-sm-6 home-post">
+
+                    {%- include post.html -%}
+
+                </div>
+
+            {% endfor %}
+
+        </div>
+
+    </div>
+
+    <div class="col-sm-4">
+    
+        {%- include twitter.html -%}
+    
+    </div>
+
+</section>
+
 <section>
     
     {{ content }}

@@ -7,7 +7,11 @@ image: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2014/02/shutterstoc
 categories: [podcast]
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque id ex at elit varius tempus id eget nisl. Donec eget fermentum lacus. 
+This is an excerpt of the post. Make sure the first sentence of your post is short and interesting. 
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
+
+Pellentesque id ex at elit varius tempus id eget nisl. Donec eget fermentum lacus. 
 
 Proin ac elit pharetra, dapibus nisl quis, viverra nulla. Donec tempor erat at efficitur sollicitudin. Nulla posuere, nisi id luctus posuere, purus erat pellentesque arcu, sit amet accumsan elit orci sit amet ante. Donec at enim dui. Aliquam erat volutpat. Nulla sed est vitae elit porta porttitor.
 

@@ -7,6 +7,12 @@ image: "https://images2.minutemediacdn.com/image/upload/c_crop,h_1192,w_2121,x_0
 categories: [podcast]
 ---
 
+This is an excerpt of the post. Make sure the first sentence of your post is short and interesting.
+
+Nullam vitae eros massa. Donec fermentum convallis facilisis. 
+
+Praesent at auctor sapien, sit amet convallis urna. Quisque sagittis commodo ligula non porttitor. Maecenas posuere id sapien in commodo. Nullam turpis tellus, lacinia sit amet ipsum a, lacinia suscipit arcu. Pellentesque eget nisl nec lectus malesuada convallis.
+
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque id ex at elit varius tempus id eget nisl. Donec eget fermentum lacus. 
 
 Proin ac elit pharetra, dapibus nisl quis, viverra nulla. Donec tempor erat at efficitur sollicitudin. Nulla posuere, nisi id luctus posuere, purus erat pellentesque arcu, sit amet accumsan elit orci sit amet ante. Donec at enim dui. Aliquam erat volutpat. Nulla sed est vitae elit porta porttitor.
