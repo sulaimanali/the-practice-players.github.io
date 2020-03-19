@@ -54,8 +54,10 @@ nav {
 
 .social span {
 
-    background-color: #121212;
+    background-color: initial;
     display: inline-block;
+    border: 2px solid white;
+    color: white;
     font-size: 1.6em;
     padding: 5px;
     width: 40px;
@@ -64,70 +66,92 @@ nav {
 
 }
 
+/*
 .fa-twitter {
 
     border: 2px solid #00acee;
     color: #00acee;
 
 }
+*/
 
 .fa-twitter:hover {
 
-     background-color: #00acee;
-     transition: background-color 100ms linear;
+    background-color: #00acee;
+    transition: background-color 100ms linear;
 
-     color: white;
-     transition: color 100ms linear;
+    /*
+    color: white;
+    transition: color 100ms linear;
+    */
 
 }
 
+/*
 .fa-instagram {
 
     border: 2px solid purple;
     color: purple;
 
 }
+*/
 
 .fa-instagram:hover {
 
-     background: linear-gradient(90deg, rgba(131,58,180,1) 0%, rgba(253,29,29,1) 50%, rgba(252,176,69,1) 100%);
-     transition: background 100ms linear;
+    background: linear-gradient(90deg, rgba(131,58,180,1) 0%, rgba(253,29,29,1) 50%, rgba(252,176,69,1) 100%);
+    transition: background 100ms linear;
 
-     color: white;
-     transition: color 100ms linear;
+    /*
+    color: white;
+    transition: color 100ms linear;
+    */
 
 }
 
+/*
 .fa-youtube {
 
     border: 2px solid #c4302b;
     color: #c4302b;
 
 }
+*/
 
 .fa-youtube:hover {
 
-     background-color: #c4302b;
-     transition: background-color 100ms linear;
+    background-color: #c4302b;
+    transition: background-color 100ms linear;
 
-     color: white;
-     transition: color 100ms linear;
+    /*
+    color: white;
+    transition: color 100ms linear;
+    */
 
 }
 
+/*
 .fa-facebook {
 
     border: 2px solid #3b5998;
     color: #3b5998;
 
 }
+*/
 
 .fa-facebook:hover {
 
-     background-color: #3b5998;
-     transition: background-color 100ms linear;
+    background-color: #3b5998;
+    transition: background-color 100ms linear;
 
-     color: white;
-     transition: color 100ms linear;
+    /*
+    color: white;
+    transition: color 100ms linear;
+    */
+
+}
+
+.posts .btn {
+
+    text-transform: uppercase;
 
 }

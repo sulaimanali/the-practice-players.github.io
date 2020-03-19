@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "Third Post"
+title: "Post About Apples"
 author: "Riyaad Azad"
-description: "Today was a lovely day is what my dad just said when I asked him to give me a random sentence."
-image: "https://images.unsplash.com/photo-1497034825429-c343d7c6a68f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=934&q=80"
+description: "No, not Apple the company. Apple the FRUIT, people. It's still a thing, and it's sweet and tart and yummy and delicious."
+image: "https://images.unsplash.com/photo-1567306226416-28f0efdc88ce?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1950&q=80"
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque id ex at elit varius tempus id eget nisl. Donec eget fermentum lacus. 

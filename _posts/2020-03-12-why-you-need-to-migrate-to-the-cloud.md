@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "Third Post"
+title: "Why You Need to Migrate to the Cloud"
 author: "Riyaad Azad"
-description: "Today was a lovely day is what my dad just said when I asked him to give me a random sentence."
-image: "https://images.unsplash.com/photo-1497034825429-c343d7c6a68f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=934&q=80"
+description: "Why do people steal identities and sell personal data? This is why we can't have nice things."
+image: "https://images2.minutemediacdn.com/image/upload/c_crop,h_1192,w_2121,x_0,y_111/f_auto,q_auto,w_1100/v1554702738/shape/mentalfloss/49786-istock_0.jpg"
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque id ex at elit varius tempus id eget nisl. Donec eget fermentum lacus. 

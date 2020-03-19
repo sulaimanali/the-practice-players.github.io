@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "Third Post"
+title: "What is a Blog?"
 author: "Riyaad Azad"
-description: "Today was a lovely day is what my dad just said when I asked him to give me a random sentence."
-image: "https://images.unsplash.com/photo-1497034825429-c343d7c6a68f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=934&q=80"
+description: "Stop reading this description. Why are you reading this description? Seriously, don't you have better things to do in life than read this description?"
+image: "https://www.webnode.com/blog/wp-content/uploads/2019/04/blog2.png"
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque id ex at elit varius tempus id eget nisl. Donec eget fermentum lacus. 

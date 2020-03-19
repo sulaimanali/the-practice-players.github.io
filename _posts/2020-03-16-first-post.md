@@ -2,17 +2,13 @@
 layout: post
 title: "First Post"
 author: "Riyaad Azad"
+description: "This is where the short description goes. Make sure it gets the reader curious, but don't make it too long."
+image: "https://images.unsplash.com/photo-1477959858617-67f85cf4f1df?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2226&q=80"
 ---
 
-# This is the first post!
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque id ex at elit varius tempus id eget nisl. Donec eget fermentum lacus. 
 
-Wow, [Jekyll](https://jekyllrb.com/) is _actually_ ~very~ *amazing*. 
-
-# Lorem Ipsum 
-
-## Placeholder Text 
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque id ex at elit varius tempus id eget nisl. Donec eget fermentum lacus. Proin ac elit pharetra, dapibus nisl quis, viverra nulla. Donec tempor erat at efficitur sollicitudin. Nulla posuere, nisi id luctus posuere, purus erat pellentesque arcu, sit amet accumsan elit orci sit amet ante. Donec at enim dui. Aliquam erat volutpat. Nulla sed est vitae elit porta porttitor.
+Proin ac elit pharetra, dapibus nisl quis, viverra nulla. Donec tempor erat at efficitur sollicitudin. Nulla posuere, nisi id luctus posuere, purus erat pellentesque arcu, sit amet accumsan elit orci sit amet ante. Donec at enim dui. Aliquam erat volutpat. Nulla sed est vitae elit porta porttitor.
 
 Nullam vitae eros massa. Donec fermentum convallis facilisis. Praesent at auctor sapien, sit amet convallis urna. Quisque sagittis commodo ligula non porttitor. Maecenas posuere id sapien in commodo. Nullam turpis tellus, lacinia sit amet ipsum a, lacinia suscipit arcu. Pellentesque eget nisl nec lectus malesuada convallis.
 

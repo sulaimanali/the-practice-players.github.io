@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "Third Post"
+title: "The One with the Podcast"
 author: "Riyaad Azad"
-description: "Today was a lovely day is what my dad just said when I asked him to give me a random sentence."
-image: "https://images.unsplash.com/photo-1497034825429-c343d7c6a68f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=934&q=80"
+description: "I want to include a unique description for each dummy post but I'm not very creative so we'll have to see."
+image: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2014/02/shutterstock_163052525-730x342.jpg"
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque id ex at elit varius tempus id eget nisl. Donec eget fermentum lacus. 

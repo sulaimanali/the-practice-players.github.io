@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "Third Post"
+title: "Post About Oranges"
 author: "Riyaad Azad"
-description: "Today was a lovely day is what my dad just said when I asked him to give me a random sentence."
-image: "https://images.unsplash.com/photo-1497034825429-c343d7c6a68f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=934&q=80"
+description: "Because, who doesn't love oranges?"
+image: "https://images.unsplash.com/photo-1547514701-42782101795e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=934&q=80"
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque id ex at elit varius tempus id eget nisl. Donec eget fermentum lacus. 
