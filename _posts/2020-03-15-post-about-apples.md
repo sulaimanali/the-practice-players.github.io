@@ -4,7 +4,7 @@ title: "Episode 3: Post About Apples"
 author: "Riyaad Azad"
 description: "No, not Apple the company. Apple the FRUIT, people. It's still a thing, and it's sweet and tart and yummy and delicious."
 image: "https://images.unsplash.com/photo-1567306226416-28f0efdc88ce?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1950&q=80"
-categories: [podcast]
+categories: [podcast, top-podcast]
 ---
 
 This is an excerpt of the post. Make sure the first sentence of your post is short and interesting.

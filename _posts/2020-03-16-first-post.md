@@ -4,6 +4,7 @@ title: "First Post"
 author: "Riyaad Azad"
 description: "This is where the short description goes. Make sure it gets the reader curious, but don't make it too long."
 image: "https://images.unsplash.com/photo-1477959858617-67f85cf4f1df?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2226&q=80"
+categories: [top-post]
 ---
 
 This is an excerpt of the post. Make sure the first sentence of your post is short and interesting.

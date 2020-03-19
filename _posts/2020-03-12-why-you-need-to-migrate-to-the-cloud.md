@@ -4,7 +4,7 @@ title: "Episode 2: Why You Need to Migrate to the Cloud"
 author: "Riyaad Azad"
 description: "Why do people steal identities and sell personal data? This is why we can't have nice things."
 image: "https://images2.minutemediacdn.com/image/upload/c_crop,h_1192,w_2121,x_0,y_111/f_auto,q_auto,w_1100/v1554702738/shape/mentalfloss/49786-istock_0.jpg"
-categories: [podcast]
+categories: [podcast, top-podcast]
 ---
 
 This is an excerpt of the post. Make sure the first sentence of your post is short and interesting.

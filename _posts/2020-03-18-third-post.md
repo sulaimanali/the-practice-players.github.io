@@ -4,6 +4,7 @@ title: "Third Post"
 author: "Riyaad Azad"
 description: "Today was a lovely day is what my dad just said when I asked him to give me a random sentence."
 image: "https://images.unsplash.com/photo-1497034825429-c343d7c6a68f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=934&q=80"
+categories: [top-post]
 ---
 
 This is an excerpt of the post. Make sure the first sentence of your post is short and interesting.

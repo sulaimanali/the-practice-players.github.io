@@ -4,6 +4,7 @@ title: "How Static Sites are Better"
 author: "Riyaad Azad"
 description: "It's a known fact that static sites are better. The issue is that not everyone knows of this fact."
 image: "https://github.com/jekyll/minima/blob/master/screenshot.png?raw=true"
+categories: [top-post]
 ---
 
 This is an excerpt of the post. Make sure the first sentence of your post is short and interesting.

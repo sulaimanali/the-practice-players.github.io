@@ -40,6 +40,42 @@ layout: default
 
         </div>
 
+        <h2>Top Stories</h2>
+
+        <div class="row home-post-row home-post-row-small">
+
+            {% for post in site.categories.top-post limit: 3 %}
+    
+                <div class="col-sm-4 home-post">
+                
+                    {%- include post.html -%}
+
+                </div>
+
+            {% endfor %}
+
+        </div>
+
+        <a href="/posts" class="btn btn-dark shadow text-light">see all posts</a>
+
+        <h2 class="mt-5">Top Episodes</h2>
+
+        <div class="row home-post-row home-post-row-small">
+
+            {% for post in site.categories.top-podcast limit: 3 %}
+    
+                <div class="col-sm-4 home-post">
+                
+                    {%- include post.html -%}
+
+                </div>
+
+            {% endfor %}
+
+        </div>
+
+        <a href="/podcasts" class="btn btn-dark shadow text-light">see all episodes</a>
+
     </div>
 
     <div class="col-sm-4">

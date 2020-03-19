@@ -4,7 +4,7 @@ title: "Episode 4: Second Post"
 author: "Riyaad Azad"
 description: "I hope you like how this site looks. I'm learning new things and technologies by building it. I never thought I'd love Bootstrap this much."
 image: "https://images.unsplash.com/photo-1499028344343-cd173ffc68a9?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1950&q=80"
-categories: [podcast]
+categories: [podcast, top-podcast]
 ---
 
 This is an excerpt of the post. Make sure the first sentence of your post is short and interesting.
