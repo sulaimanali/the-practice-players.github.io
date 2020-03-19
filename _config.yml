@@ -8,6 +8,8 @@ instagram: "practiceplayers"
 youtube: "UCP_8OkBDprwJzn3pDa2HzxA"
 facebook: "practiceplayers"
 
+instagram-highlighted-post: "https://www.instagram.com/p/B92R9NPA6FD/"
+
 plugins: 
     - jekyll-feed
     - jekyll-sitemap
