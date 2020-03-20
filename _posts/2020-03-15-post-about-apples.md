@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Episode 3: Post About Apples"
+title: "Episode 2: Pay No Attention to this Dummy Post"
 author: "Riyaad Azad"
 description: "No, not Apple the company. Apple the FRUIT, people. It's still a thing, and it's sweet and tart and yummy and delicious."
 image: "https://images.unsplash.com/photo-1567306226416-28f0efdc88ce?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1950&q=80"

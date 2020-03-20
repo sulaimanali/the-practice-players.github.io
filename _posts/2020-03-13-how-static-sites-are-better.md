@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "How Static Sites are Better"
+title: "Welcome"
 author: "Riyaad Azad"
 description: "It's a known fact that static sites are better. The issue is that not everyone knows of this fact."
 image: "https://github.com/jekyll/minima/blob/master/screenshot.png?raw=true"

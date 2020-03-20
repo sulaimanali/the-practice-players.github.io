@@ -40,7 +40,7 @@ layout: default
 
         </div>
 
-        <h2>Top Stories</h2>
+        <!--<h2>Top Stories</h2>-->
 
         <div class="row home-post-row home-post-row-small">
 
@@ -48,7 +48,7 @@ layout: default
     
                 <div class="col-md-4 home-post">
                 
-                    {%- include post.html -%}
+                    <!--{%- include post.html -%}-->
 
                 </div>
 
@@ -56,9 +56,9 @@ layout: default
 
         </div>
 
-        <a href="/posts" class="btn btn-dark shadow text-light">see all posts</a>
+        <!--<a href="/posts" class="btn btn-dark shadow text-light">see all posts</a>
 
-        <h2 class="mt-5">Top Episodes</h2>
+        <h2 class="mt-5">Top Episodes</h2>-->
 
         <div class="row home-post-row home-post-row-small">
 
@@ -66,7 +66,7 @@ layout: default
     
                 <div class="col-md-4 home-post">
                 
-                    {%- include post.html -%}
+                    <!--{%- include post.html -%}-->
 
                 </div>
 
@@ -74,7 +74,9 @@ layout: default
 
         </div>
 
-        <a href="/podcasts" class="btn btn-dark shadow text-light mb-5">see all episodes</a>
+        <!--<a href="/podcasts" class="btn btn-dark shadow text-light mb-5">see all episodes</a>-->
+
+        {{ content }}
 
     </div>
 
@@ -83,11 +85,5 @@ layout: default
         {%- include sidebar.html -%}
     
     </div>
-
-</section>
-
-<section>
-    
-    {{ content }}
 
 </section>
