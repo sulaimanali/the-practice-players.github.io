@@ -2,7 +2,7 @@
 layout: post
 title: Welcome to The Practice Players
 author: Sulaiman Ali
-description: ''
+description: assets/unnamed.jpg
 image: assets/White on Black.png
 categories:
 - top-post
