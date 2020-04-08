@@ -1,26 +1,23 @@
 ---
 layout: post
-title: "Welcome"
-author: "Riyaad Azad"
-description: "It's a known fact that static sites are better. The issue is that not everyone knows of this fact."
-image: "https://github.com/jekyll/minima/blob/master/screenshot.png?raw=true"
-categories: [top-post]
+title: Welcome to The Practice Players
+author: Sulaiman Ali
+description: ''
+image: the-practice-players.github.io/assets/logos/Black on White.PNG
+categories:
+- top-post
+
 ---
+Welcome to **The Practice Players**.
 
-This is an excerpt of the post. Make sure the first sentence of your post is short and interesting.
+An interactive, opinionated, sports environment fostering family-friendly collaborative content.
 
-Etiam sit amet tempus nulla. Suspendisse purus augue, suscipit eu sodales nec, fermentum ac mi. 
+**The Practice Players** was created to envelop a passion for sports with dialogue, where opinions are always welcomed.
 
-Quisque in lorem sit amet sem rhoncus ornare nec eu diam. Phasellus fermentum dignissim felis, egestas pulvinar elit vulputate a. Integer porta sit amet elit at facilisis. Duis pharetra, leo ac tincidunt pellentesque, lorem lectus auctor nunc, at convallis orci felis sit amet tortor. Donec sed justo et odio placerat rutrum. 
+Origination of the name comes from a common phrase mentioned in sports, although perhaps in a more negative light. “Practice Players” are usually referred to as those who either shine when the spotlights aren’t on them, the average Joes, or those who aren’t the “elite stars”. However **The Practice Players** sports environment was created for the average sports fan who loves to talk sports, plain and simple.
 
-Pellentesque rutrum pretium vestibulum. Proin condimentum lectus et lorem tempor tincidunt. Duis maximus diam nec ex euismod, vel aliquam enim facilisis. Aliquam ultricies augue sit amet molestie vestibulum. Suspendisse maximus aliquam semper. Etiam vitae tempor nisl, vel aliquam erat. Sed feugiat mi feugiat ipsum tempor, in iaculis est porta.
+Content for this site will be posted on this website, Instagram (@practiceplayers), Twitter (@practiceplayers), Facebook (@practiceplayers) and YouTube pages.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque id ex at elit varius tempus id eget nisl. Donec eget fermentum lacus. 
+Types of content will include articles, videos, and podcasts.
 
-Proin ac elit pharetra, dapibus nisl quis, viverra nulla. Donec tempor erat at efficitur sollicitudin. Nulla posuere, nisi id luctus posuere, purus erat pellentesque arcu, sit amet accumsan elit orci sit amet ante. Donec at enim dui. Aliquam erat volutpat. Nulla sed est vitae elit porta porttitor.
-
-Nullam vitae eros massa. Donec fermentum convallis facilisis. Praesent at auctor sapien, sit amet convallis urna. Quisque sagittis commodo ligula non porttitor. Maecenas posuere id sapien in commodo. Nullam turpis tellus, lacinia sit amet ipsum a, lacinia suscipit arcu. Pellentesque eget nisl nec lectus malesuada convallis.
-
-Aenean euismod eros eget nibh vehicula, id aliquam ante lacinia. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi ullamcorper, tellus ut lobortis vehicula, sem purus molestie justo, et scelerisque elit velit vel ex. Duis hendrerit velit nec arcu iaculis commodo. Nam tincidunt mi vitae enim lobortis, ac tincidunt mauris rhoncus. Phasellus egestas gravida accumsan. Aliquam eleifend egestas hendrerit. Donec aliquam justo non dui interdum, eu fermentum ante elementum. Cras malesuada quam eu arcu facilisis, nec pellentesque libero blandit.
-
-Suspendisse facilisis massa vel commodo tempus. Duis at imperdiet mauris. Morbi neque nunc, fringilla bibendum condimentum quis, ullamcorper eget ante. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Cras quis lectus a massa ultricies auctor. Curabitur quis quam in turpis tempus elementum non id lacus. Proin imperdiet aliquam sem.
+Stay tuned for upcoming posts, and please interact on our socials.
