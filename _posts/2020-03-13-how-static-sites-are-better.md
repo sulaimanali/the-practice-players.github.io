@@ -3,7 +3,7 @@ layout: post
 title: Welcome to The Practice Players
 author: Sulaiman Ali
 description: ''
-image: the-practice-players.github.io/assets/unnamed.jpg
+image: "/assets/unnamed.jpg"
 categories:
 - top-post
 
