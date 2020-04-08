@@ -3,7 +3,7 @@ layout: post
 title: Welcome to The Practice Players
 author: Sulaiman Ali
 description: ''
-image: the-practice-players.github.io/assets/logos/Black on White.PNG
+image: https://github.com/sulaimanali/the-practice-players.github.io/blob/master/assets/logos/Black%20on%20White.PNG
 categories:
 - top-post
 
